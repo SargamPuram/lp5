@@ -12,6 +12,7 @@
 ## SECTION 1 — Basic Concepts
 
 ---
+The Problem: The Time-of-Check to Time-of-Use Race Condition.
 
 ### Q. What is BFS?
 
